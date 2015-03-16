@@ -1,0 +1,12 @@
+Script started on 2015年03月17日 (週二) 02時42分32秒
+]0;F74034067@2015cpp: ~F74034067@2015cpp:~$ whoami;pwd
+F74034067
+/home/F74034067
+]0;F74034067@2015cpp: ~F74034067@2015cpp:~$ git config -l
+user.name=f74034067
+user.email=suchihhan@hotmail.com
+]0;F74034067@2015cpp: ~F74034067@2015cpp:~$ git clone http://github.com/<>f>7>4>0>3>4>0>6> [A]0;F74034067@2015cpp: ~F74034067@2015cpp:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C7>>[C/lab-1.git
+bash: f74034067: No such file or directory
+]0;F74034067@2015cpp: ~F74034067@2015cpp:~$ exit
+
+Script done on 2015年03月17日 (週二) 02時43分56秒
